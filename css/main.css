@@ -51,3 +51,25 @@ p{
 	width: 50%;
 	margin: 0px auto;
 }
+#design-archives h3{
+	color: #ffffff;
+}
+#design-archives{
+	display: block;
+	color: #ffffff;
+	background-image: url(../img/fon.png);
+	margin: 0px auto;
+	background-color: #ffffff;
+	width: 50%;
+}
+#zen-resources h3{
+	color: #ffffff;
+}
+#zen-resources{
+	display: block;
+	color: #ffffff;
+	background-image: url(../img/fon.png);
+	margin: 0px auto;
+	background-color: #ffffff;
+	width: 50%;
+}
