@@ -35,3 +35,19 @@ p{
 	color: #696969;
 	font-size: 20px;
 }
+#zen-summary p{
+	color: #000000;
+	text-shadow: 2px 2px #FFFFFF;
+	font-size: 30px;
+	margin: 0px auto;
+}
+#design-selection h3{
+	color: #ffffff;
+}
+#design-selection{
+	display: block;
+	color: #ffffff;
+	background-image: url(../img/fon.png);
+	width: 50%;
+	margin: 0px auto;
+}
